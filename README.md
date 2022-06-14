@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ferzache
 - 👀 I’m interested in QA testing
-- 🌱 I’m currently learning QA and Python
+- 🌱 I’m currently learning QA and Python, Bash, Git and Postman
 - 💞️ I’m looking to collaborate on learning and get first QA job
 - 📫 How to reach me by email
 
